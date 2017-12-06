@@ -8,5 +8,6 @@
 <body>
 
 <?php echo test ?>
+  <?php echo test2 ?>
 </body>
 </html>
